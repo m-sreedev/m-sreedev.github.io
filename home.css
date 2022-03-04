@@ -1,0 +1,44 @@
+body{
+	background-color: #2e2d20;
+}
+
+h1{
+	color: #ffee38;
+	font-family: Liberation Sans;
+	padding-left: 350px;
+}
+
+hr{
+	width: 50%;
+}
+
+a{
+	color: #f0ecaa;
+	font-size: 25px;
+}
+
+p{
+	padding-top: 45px;
+	padding-left: 350px;
+	font-size: 20px;
+	color: #f0ecaa;
+	font-size: 25px;
+
+
+}
+
+p.sub{
+    padding-top: 5px;
+	padding-left: 350px;
+	font-size: 10px;
+	color: #ebe481;
+	font-size: 20px;
+
+}
+
+audio{
+	padding-left: 350px;
+	padding-right: 100px;
+	border-radius: 90px;
+
+}
