@@ -5,7 +5,7 @@ body{
 h1{
 	color: #ffee38;
 	font-family: Liberation Sans;
-	padding-left: 350px;
+	padding-left: 25%px;
 }
 
 hr{
@@ -19,7 +19,7 @@ a{
 
 p{
 	padding-top: 45px;
-	padding-left: 350px;
+	padding-left: 25%px;
 	font-size: 20px;
 	color: #f0ecaa;
 	font-size: 25px;
@@ -29,7 +29,7 @@ p{
 
 p.sub{
     padding-top: 5px;
-	padding-left: 350px;
+	padding-left: 25%px;
 	font-size: 10px;
 	color: #ebe481;
 	font-size: 20px;
@@ -37,8 +37,8 @@ p.sub{
 }
 
 audio{
-	padding-left: 350px;
-	padding-right: 100px;
+	padding-left: 25%px;
+	padding-right: 10%px;
 	border-radius: 90px;
 
 }
